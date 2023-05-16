@@ -190,7 +190,7 @@ To install and run any of these Java projects, you will need to have the followi
 
 Clone this repository using the following command:
 ```sh
-git clone https://github.com/abhishek-0713/LGMVIP-Java.git
+git clone https://github.com/14Naman/LGMVIP-Java.git
 ```
 
 
@@ -215,17 +215,6 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 Distributed under the Apache-2.0 License. See `LICENSE.txt` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-LinkedIn - [@abhishek-d-patil-8b6780235](https://www.linkedin.com/in/abhishek-d-patil-8b6780235/) - abhishekpatil1924@gmail.com
-
-Project Link: [https://github.com/abhishek-0713/LGMVIP-Java](https://github.com/abhishek-0713/LGMVIP-Java)
-
-
 
 
 ## About Internship
