@@ -1,2 +1,0 @@
-# LGMVIP-
-Java Developer Internship
